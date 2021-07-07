@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @izakariyya
-- 👀 I’m interested in proposing Machine Learning methods for efficient and effective classifications.
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in proposing Machine Learning (ML) methods for efficient and effective classification tasks.
+- 🌱 I’m currently exploring the usage of ML approaches for IoT security monitoring.
+- 💞️ I’m looking to collaborate on various IoT cybersecurity projects.
+- 📫 How to reach me easily via email zakariyyaidris68@gmail.com
 
 <!---
 izakariyya/izakariyya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

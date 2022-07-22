@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @izakariyya
-- 👀 I’m interested in proposing Machine Learning (ML) methods for efficient and effective classification tasks.
-- 🌱 I’m currently exploring the usage of ML approaches for IoT security monitoring.
+- 👀 I’m interested in proposing Machine Learning (ML) methods for efficient, effective and robuts IoT security monitoring tasks.
+- 🌱 I’m currently exploring the usage of ML approaches for IoT data analytics and security monitoring.
 - 💞️ I’m looking to collaborate on various IoT cybersecurity projects.
 - 📫 How to reach me easily via email zakariyyaidris68@gmail.com
 
